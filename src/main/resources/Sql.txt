@@ -17,3 +17,6 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Maria', 'maria@gmail
 INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
+
+
+https://www.youtube.com/watch?v=2YWHtbZJ0QI&pp=ygUTcmFiYml0bXEgZnVsbCBjeWNsZQ%3D%3D
